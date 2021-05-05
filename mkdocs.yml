@@ -1,0 +1,8 @@
+site_name: "Onboarding"
+site_description: "New user guide"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
